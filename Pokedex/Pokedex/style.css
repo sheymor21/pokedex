@@ -1,0 +1,27 @@
+#contaner{
+    margin-top: 6%;
+   
+}
+#imgw{
+    height: 30%;
+    width: 50%;
+    align-self: center;
+}
+
+#CardDetalle{
+    width: 70%;
+    margin-left: 12%;
+    
+}
+body{
+    background-image: url("fondoPokemons.png");
+    background-size: cover;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+}
+#imgI{
+    width: 80px;
+}
+#buton-delete{
+    margin-left: 35%;
+}
